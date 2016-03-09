@@ -1,0 +1,31 @@
+body{
+	font-family:Times New Roman;
+	font-size:18px;
+}
+
+.logcont{
+	text-align:center;
+	margin-top:10%;
+}
+
+.heading{
+	text-align:center;
+}
+
+.title{
+	text-align:right;
+}
+
+.border{
+	border-style: groove;
+    border-color: #0C2E3E;
+}
+
+.border1{
+	border-style: inset;
+    border-color: #0C2E3E;
+}
+.submitCan{
+	text-align:center;
+	margin:2%;
+}
